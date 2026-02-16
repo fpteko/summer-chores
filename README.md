@@ -2,7 +2,7 @@ Summer Chores ☀️
 ##
 📌 Overview
 
-The purpose of this project is to practice using callbacks and understand asynchronous behavior in javascript using setTimeout.
+The purpose of this project is to practice using callbacks and promise and understand asynchronous behavior in javascript using setTimeout.
 The prgram simulate a person completing a list of summer chores every saturday. As they complete each chore they more tired and may ramdomly fall asleep before finishing al tasks.
 ##
 🧹 Chore List (in order)
@@ -28,12 +28,16 @@ The prgram simulate a person completing a list of summer chores every saturday. 
 - Node.js
 - SetTimeout
 - Callback Functions
+- Promises
 ##
 🎯 What this project demonstrate
 - Asynchronous JavaScript behavior
 - Nested callback functions (callback hell)
 - Random number generation
 - Sequential execution of dependent tasks
+- Promise creation
+- Promise chaining
+- Error handling while using catch
 ##
 📚 Learning Goal
 - Understand how callbacks work
