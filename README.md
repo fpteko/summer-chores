@@ -1,11 +1,14 @@
-Summer Chores ☀️
-##
-📌 Overview
+## Summer Chores ☀️ Callbacks, Promises, & Async/Await
+## 📌Overview
+This project is a part of a mult-step JavaScript exercise focused on understanding asynchronous programming.
+The project simulate someone completing a list of chores every saturday throughout the summer. As they complte each chore , they become more tired and may ramdomly fall asleep before finishing all tasks.
 
-The purpose of this project is to practice using callbacks and understand asynchronous behavior in javascript using setTimeout.
-The prgram simulate a person completing a list of summer chores every saturday. As they complete each chore they more tired and may ramdomly fall asleep before finishing al tasks.
-##
-🧹 Chore List (in order)
+The project demonstarte three different approach:
+- Callback functions
+- Promises
+- Async/Await
+
+## 🧹 Chore List (in order)
 - Mow the yard
 - Weed eat the yard
 - trim the hedges
@@ -13,8 +16,8 @@ The prgram simulate a person completing a list of summer chores every saturday. 
 - Water the garden
   
 ⚠️ The person will never fall asleep before mowing the yard, but may after any of the remaining chores.
-##
-⏱️ Time to complte each chore
+
+## ⏱️ Time to complte each chore
 | Chore        | Time (milliseconds) |
 | ------------ | ------------------- |
 | Mow the yard | 2000                |
@@ -22,20 +25,26 @@ The prgram simulate a person completing a list of summer chores every saturday. 
 | Trim hedges  | 1000                |
 | Collect wood | 2500                |
 | Water garden | 500                 |
-##
-🛠️ Technology Used 
+
+## 🛠️ Technology Used 
 - JavaScript
 - Node.js
 - SetTimeout
 - Callback Functions
-##
-🎯 What this project demonstrate
+- Promises
+- Async/Await
+
+## 🎯 Learning Objective
 - Asynchronous JavaScript behavior
 - Nested callback functions (callback hell)
 - Random number generation
 - Sequential execution of dependent tasks
-##
-📚 Learning Goal
+- Promise creation
+- Promise chaining
+- Error handling using .catch()
+- Async/Await with try/catch
+
+## 📚 Learning Goal
 - Understand how callbacks work
 - see how asynchronous code execute in order 
 
